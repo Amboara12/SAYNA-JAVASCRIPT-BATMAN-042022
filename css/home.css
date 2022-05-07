@@ -1,0 +1,362 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.fond{
+     background-image: url(../illustrations/Home/Bathome1.png);
+     background-color: black;
+     background-repeat: no-repeat;
+     border-bottom: none;
+     
+}
+.souris img{
+    margin-top:60px;
+    margin-left:100px;
+}
+.souris img:hover{
+   color: yellow;
+}
+.bordure{
+    border: 2px solid #bcbdbd67;
+    width: 85%;
+    margin-left: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+     
+    
+
+}
+.mask-batman img{
+    width:100%;
+}
+.home{
+    color: white;
+    display: flex;
+    margin-top: 50px;
+    margin-right:60px;
+}
+
+
+.home1{
+    transform: translate(-40px);
+    text-decoration: underline;
+    color: white;
+}
+.bordure1{
+    width: 40%;
+    margin: 40px auto ;
+    color: white;
+    text-align: center;
+    
+}
+.bordure2{
+    border: 2px solid #bcbdbd41;
+    margin:0 100px 0 90px;
+    padding:200px 0;
+    border-bottom:none ;
+    
+
+    
+}
+.les-button{
+text-align: center;
+width: auto;
+}
+.button1 {
+    /* background-color: #babebe3d; */
+    background: linear-gradient(45deg,#777676 ,#880b0b73);
+    border: none;
+    color: white;
+    width:15%;
+    height: 50px;
+    }
+.button1:hover{
+    background: linear-gradient(45deg,#ffffff ,#ff000073);
+}
+.button2{
+  
+    border: none;
+    color: white;
+    width:15%;
+    height: 50px;
+    background: linear-gradient(60deg,#777676 ,#85030373);
+}
+.button2:hover{
+    background: linear-gradient(60deg,#fffafa ,#ff000073);
+}
+.fond-noir{
+    text-align: center;
+    margin-top: 300px;
+}
+.titre{
+    color: white;
+}
+.batman-au-cinema h2{
+padding:50px;
+}
+.au-cinema{
+    color: white;
+    padding:50px;
+    width: 60%;
+}
+.batman-3{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: -100px;
+   
+    
+}
+.batman-2{
+    color: white;
+}
+.batman-4{
+    color: white;
+}
+.batman-1{
+    color:white;
+    text-align: center;
+}
+
+.titre1{
+    color: white;
+    margin-left: 50px;
+    margin-top: -80px;
+}
+.au-cinema1{
+    color:white;
+    margin-left:50px;
+}
+.adversaire1{
+    display: flex;
+    justify-content: space-between;
+}
+.bord{
+    border: 2px solid #bcbdbd41;
+    margin:-50px 100px 0 90px;
+    padding:200px 0;
+    border-top:none ;
+}
+.multimedia{
+    display: flex;
+}
+.titre-multimedia{
+    padding-left: 20px;
+}
+.action{
+display: flex;
+flex-direction: row;
+border: 2px solid white;
+width: 40%;
+background-color:#8252fc05;
+}
+.description{
+color: white;
+width: 60%;
+}
+.slide{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 50px;
+    
+}
+.texte1{
+    font-size: small;
+    width: 100%;
+}
+.sary{
+    width: 40%;
+}
+.next{
+    padding-right: 40px;
+}
+.adresse-email{
+    border:0px;
+    border-bottom: 1px solid white;
+    background-color: transparent;
+}
+.choix{
+    border:0px;
+    border-bottom: 1px solid white;
+    width: 60%;
+    background-color: transparent;
+}
+.souhaitez{
+    border:0px;
+border-bottom:1px solid white ;
+background-color: transparent;
+}
+.prenoms{
+    border: 1px solid #65c2c221;
+    margin:0 100px 0 90px;
+    padding:200px 0;
+    border-top:none;
+    color: white;
+    
+    
+}
+.pre-contact{
+    text-align: center;
+    background-color: transparent;
+    margin-top: -90px;
+}
+.lebo{
+    padding-left: 200px;
+    padding-top: 50px;
+}
+.les-trois-button{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+     width: 30%;
+     padding-left: 350px;
+     padding-top: 50px;
+     
+}
+.btn1{
+    width:30%;
+    height: 30px;
+    background-color:transparent;
+    color: white;
+    border: 1px solid white;
+}
+.btn1:hover{
+    background-image: linear-gradient(60deg,#eddebf63 0.5%,#406e88);
+}
+.message{
+    padding-left: 200px;
+}
+.laissez{
+    border: 0px;
+    border-bottom: 1px solid white;
+    width: 50%;
+    background-color: transparent;
+}
+.confirmer{
+    margin-left: 450px;
+    width: 20%;
+    height: 50px;
+    color: white;
+    background-color: #b11313;
+    background: linear-gradient(60deg,#fffafab9 ,#d41b1bd2);
+    border: none;
+}
+.mainty{
+    background-color: black;
+    
+}
+.miantona{
+    padding-left: 140px;
+}
+.soratra{
+    padding-left: 350px;
+    padding-top: 80px;
+    width: 40%;
+}
+.miantona1{
+    padding-left: 800px;
+    padding-top: 50px;
+    justify-items: center;
+}
+.soratra1{
+    padding-left: 350px;
+    padding-top: 20px;
+}
+.wb{
+    padding-left:200px;
+    
+}
+.soratra2{
+    color: white;
+    padding-left: 40px;
+   
+}
+.farany{
+    display: flex;
+    padding-top: 100px;
+   
+}
+.icon{
+    display: flex;
+    width: 30%;
+    justify-content: space-between;
+    margin: auto;
+
+}
+.icon img{
+    width: 10%;
+}
+
+
+
+.game:hover{
+font-weight: bold;
+text-decoration: underline;
+}
+.prenoms-contacts{
+    background-image: linear-gradient(150deg,#eddebf63 0.5%,#406e88);
+}
+
+
+/*  */
+.posit-fixed{
+    position: fixed;
+    top: 50px;
+    right: 48px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.IMAGE{
+    
+    
+   background-image:linear-gradient(45deg ,white , red) ;
+    align-items: center;
+    border-radius: 5vw;
+    position: absolute;
+  padding-right: 50px;
+    bottom: 0px;
+    display: none;
+}
+.video{
+    text-align: center;
+}
+.batman-1{
+    position: relative;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
+    
+}
+.batman-1 img:hover{
+    transform: scale(1.1);
+}
+.action{
+    background-image: linear-gradient(150deg,#eddebf63 0.5%,#406e88);
+}
+.game{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+/* pour l'animation de sscroll  */
+
+.Animation{
+    animation-name: Amboara;
+    animation-duration: 3   s;
+}
+
+
+@keyframes Amboara {
+    0%{
+        opacity: 0%;
+    }
+    100%{
+        opacity: 100%;
+    }
+}

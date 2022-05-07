@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.fond{
+    background-image: url(../illustrations/Game/Batgame1.png);
+    background-color: black;
+    background-repeat: no-repeat;
+    border-bottom: none;
+    
+}
+.bordure{
+    border: 2px solid #bcbdbd67;
+    width: 85%;
+    margin-left: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+     
+    
+
+}
+.souris img{
+    margin-top:60px;
+    margin-left:100px;
+}
+.home{
+    color: white;
+    display: flex;
+    margin-top: 50px;
+    margin-right:60px;
+}
+.home1{
+    transform: translate(-40px);
+    text-decoration: none;
+    color: white;
+}
+.bordure2{
+    border: 2px solid #bcbdbd41;
+    margin:0 100px 0 90px;
+    padding:200px 0;
+    border-bottom:none ;
+}
+.posit-fixed{
+    position: fixed;
+    top: 50px;
+    right: 48px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.game{
+    text-decoration: underline;
+    color: white;
+}
+.game:hover{
+    font-weight: bold;
+}
+.fond-noir{
+    text-align: center;
+    margin-top: 550px;
+}
+.icon{
+    display: flex;
+    width: 30%;
+    justify-content: space-between;
+    margin: auto;
+
+}
+.icon img{
+    width: 10%;
+}
+.wb{
+    padding-left:200px;
+    
+}
+.soratra2{
+    color: white;
+    padding-left: 40px;
+   
+}
+
+.farany{
+    display: flex;
+    padding-top: 100px;
+   
+}
+.demarrer{
+    background: linear-gradient(60deg,#aaa5a546 ,#eb323279);
+    width: 30%;
+    height: 60px;
+    
+    
+}
+.centre{
+   text-align: center;
+    padding-top: 100px;
+}
+.bat{
+    text-align: center;
+}
+.quiz{
+    color: white;
+    font-size: small;
+    text-align: center;
+    padding-top: 50px;
+}
+.demarrer:hover{
+    background: linear-gradient(60deg,#fcfcfc ,#c90000);
+}
